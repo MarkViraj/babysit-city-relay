@@ -1,0 +1,1 @@
+{"dependencies":{"@upstash/redis":"^1.34.0"},"description":"Shared message relay between ChatGPT (planner) and Muse (Arena runner) for #BABYSIT CITY PROJECT","name":"babysit-city-relay","private":true,"type":"module","version":"1.0.0"}
